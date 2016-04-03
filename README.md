@@ -1,6 +1,6 @@
 # KPop-Lib
-
-http://kpoplib.meteor.com
+(Depricated due to Meteor free host shutting down)
+~~http://kpoplib.meteor.com~~
 
 ![alt tag](http://i.imgur.com/qPEDm01.png)
 
